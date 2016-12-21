@@ -1,4 +1,7 @@
 @import '../info/myself.css';
+body {
+  padding-bottom: 50px;
+}
 .title_bg {
   background: #fff;
   padding: 10px 0;

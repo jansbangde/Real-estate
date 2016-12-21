@@ -108,9 +108,15 @@ $('.back_top').on('tap',function(){
 })			
 				
 				
-						
+$('.search').on('tap',function(){
+	window.location.href = './Recent_search.html';
+})						
 			
-		
+				
+$('.page_city_chose').on('tap',function(){
+	window.location.href = './page_city.html';
+})						
+			
 	
 	
 
